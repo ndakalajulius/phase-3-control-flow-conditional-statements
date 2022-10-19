@@ -314,7 +314,7 @@ fizzbuzz(15)
 Write a method `#calculator` that takes three arguments: an operation and two
 numbers. If the operation is one of the following: `+`, `-`, `*`, or `/`,
 return the value of calling the operation on the two numbers. Otherwise,
-output a message saying "Invalid operation!" and return `nil`.
+`.output a message saying "Invalid operation!" and return `nil
 
 ```rb
 calculator("+", 1, 1)
